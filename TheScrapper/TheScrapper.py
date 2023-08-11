@@ -1,4 +1,3 @@
-
 import json
 from argparse import ArgumentParser
 import csv
@@ -124,43 +123,49 @@ if __name__ == "__main__":
         out = []
         urls_from_csv = read_urls_from_csv(args.urls)
         for url in urls_from_csv:
-            url = url.strip()  # Remove any leading/trailing whitespace
-            if not url.startswith("https://") and not url.startswith("http://"):
-                url = "http://" + url
+            try:
+                url = url.strip()  # Remove any leading/trailing whitespace
+                if not url.startswith("https://") and not url.startswith("http://"):
+                    url = "http://" + url
 
-            print("*" * 50 + "\n" + f"Target: {url}" + "\n" + "*" * 50 + "\n")
+                print("*" * 50 + "\n" + f"Target: {url}" + "\n" + "*" * 50 + "\n")
 
-            requests.get(url)
-            verbPrint("Scraping (and crawling) started")
-            scrap = Scrapper(url=url, crawl=args.crawl)
-            verbPrint("Scraping (and crawling) done\nReading and sorting information")
-            IR = InfoReader(content=scrap.getText())
-            emails = IR.getEmails()
-            numbers = IR.getPhoneNumber()
-            sm = IR.getSocials()
-            out.append({
-                "Target": url,
-                "E-Mails": emails,
-                "SocialMedia": sm,
-                "Numbers": numbers
-            })
-            verbPrint("Reading and sorting information done")
-            print("E-Mails:\n" + "\n - ".join(emails))
-            print("Numbers:\n" + "\n - ".join(numbers))
-            if args.sm:
-                print("SocialMedia: ")
-                sm_info = IR.getSocialsInfo()
-                for x in sm_info:
-                    url = x["url"]
-                    info = x["info"]
-                    if info:
-                        print(f" - {url}:")
-                        for y in info:
-                            print(f"     - {y}: {info[y]}")
-                    else:
-                        print(f" - {url}")
-            else:
-                print("SocialMedia: " + ", ".join(sm))
+                response = requests.get(url)
+                response.raise_for_status()  # Check for HTTP request errors
+
+                verbPrint("Scraping (and crawling) started")
+                scrap = Scrapper(url=url, crawl=args.crawl)
+                verbPrint("Scraping (and crawling) done\nReading and sorting information")
+                IR = InfoReader(content=scrap.getText())
+                emails = IR.getEmails()
+                numbers = IR.getPhoneNumber()
+                sm = IR.getSocials()
+                out.append({
+                    "Target": url,
+                    "E-Mails": emails,
+                    "SocialMedia": sm,
+                    "Numbers": numbers
+                })
+                verbPrint("Reading and sorting information done")
+                print("E-Mails:\n" + "\n - ".join(emails))
+                print("Numbers:\n" + "\n - ".join(numbers))
+                if args.sm:
+                    print("SocialMedia: ")
+                    sm_info = IR.getSocialsInfo()
+                    for x in sm_info:
+                        url = x["url"]
+                        info = x["info"]
+                        if info:
+                            print(f" - {url}:")
+                            for y in info:
+                                print(f"     - {y}: {info[y]}")
+                        else:
+                            print(f" - {url}")
+                else:
+                    print("SocialMedia: " + ", ".join(sm))
+            except requests.exceptions.RequestException as e:
+                print(f"Error processing {url}: {e}")
+                continue
 
         if args.output:
             file_name = args.urls.replace("/", "_").replace(".csv", "")

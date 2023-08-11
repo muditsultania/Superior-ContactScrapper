@@ -1,58 +1,1032 @@
 [
     {
-        "Target": "https://www.kajariaceramics.com/",
-        "E-Mails": [
-            "info@kajariaceramics.com"
-        ],
+        "Target": "http://www.rhythmclocks.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.hermleclocks.com",
+        "E-Mails": [],
         "SocialMedia": [
-            "https://www.facebook.com/KajariaCeramicsLimited/",
-            "https://www.instagram.com/kajaria.ceramics/",
-            "https://twitter.com/kajariaceramic",
-            "https://in.linkedin.com/company/kajaria-ceramics-ltd-",
-            "https://www.youtube.com/channel/UCRpn5FtFfydCTpc-3M61zgA"
+            "https://twitter.com/FloorClocks",
+            "https://www.instagram.com/grandfatherclocks/",
+            "https://www.pinterest.com/FloorClocks",
+            "https://www.youtube.com/channel/UCw5xhjgcKKLp4rbtkiSIHTA"
         ],
         "Numbers": [
-            "1800309309"
+            "2125794576",
+            "2004202318004"
         ]
     },
     {
-        "Target": "https://www.somanyceramics.com/",
+        "Target": "http://www.ecolife.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://facebook.com/ecolifestyle",
+            "https://twitter.com/ecolifesite"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.biobin.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.greenscape.com",
         "E-Mails": [
-            "marketing@somanyceramics.com",
-            "export@somanyceramics.com",
-            " marketing@somanyceramics.com",
-            " export@somanyceramics.com"
+            "info@landscapeworkshop.com"
         ],
         "SocialMedia": [
-            "https://www.facebook.com/SomanyCeramic",
-            "https://twitter.com/SomanyCeramic",
-            "https://www.instagram.com/somanyceramics/",
-            "https://www.linkedin.com/company/somany-ceramics-ltd",
-            "https://www.youtube.com/channel/UC7q_1IxPhxxhQ9Lo8JBMHLg/videos"
+            "https://www.facebook.com/landscapeworkshopllc/",
+            "https://www.instagram.com/landscapeworkshop/",
+            "https://twitter.com/landscapewrkshp?lang=en",
+            "https://www.linkedin.com/company/landscape-workshop-inc-/"
         ],
         "Numbers": [
-            "18001030004"
+            "2055473945"
         ]
     },
     {
-        "Target": "https://www.nitco.in/",
+        "Target": "http://www.kitchenexperts.in",
         "E-Mails": [
-            "marketing@nitco.in"
+            "kitchenxpertsindia@gmail.com"
         ],
-        "SocialMedia": [
-            "https://www.facebook.com/NitcoOfficial",
-            "https://www.instagram.com/nitcoltd",
-            "https://twitter.com/NitcoLtd",
-            "https://www.linkedin.com/company/nitco-limited",
-            "https://in.pinterest.com/NitcoLtd",
-            "https://www.youtube.com/nitcoltd"
-        ],
+        "SocialMedia": [],
         "Numbers": [
-            "18002664826"
+            "917418667118"
         ]
     },
     {
-        "Target": "https://www.aglasiangranito.com/",
+        "Target": "http://www.cooksparadise.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.homechefindia.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552",
+            "1795747924"
+        ]
+    },
+    {
+        "Target": "http://www.artvibes.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://twitter.com/artvibes"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.mystiquedecor.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.divineelegance.com",
+        "E-Mails": [
+            "sales@buydomains.com"
+        ],
+        "SocialMedia": [],
+        "Numbers": [
+            "912267209070"
+        ]
+    },
+    {
+        "Target": "http://www.artstreet.in",
+        "E-Mails": [
+            "helpdesk@artstreet.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/paintingmantra/",
+            "https://www.instagram.com/artstreet.in/",
+            "https://www.youtube.com/channel/UCnlYPTgInLocy1uC78YXkRw"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.canvera.com",
+        "E-Mails": [
+            "care@canvera.com"
+        ],
+        "SocialMedia": [
+            "https://facebook.com/Canvera/",
+            "https://twitter.com/Canvera/",
+            "https://www.instagram.com/canveradotcom/",
+            "https://www.linkedin.com/company/canvera-com",
+            "https://www.youtube.com/user/CanveraInc"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.snapgalaxy.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://www.facebook.com/SnapGalaxy",
+            "http://www.twitter.com/SnapGalaxy"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.indigocreatives.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.arthouseindia.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552"
+        ]
+    },
+    {
+        "Target": "http://www.craftedheritage.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.heritagehues.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.artscapeindia.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.divinecreations.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.twitter.com/",
+            "https://www.facebook.com/divinecreations.in/?ref=pages_you_manage",
+            "https://instagram.com/dcgraphicandwebdesigner",
+            "https://www.linkedin.com/feed/",
+            "https://www.facebook.com/divinecreations.in/",
+            "https://www.linkedin.com/in/pallavi-pamnani-2b3257194"
+        ],
+        "Numbers": [
+            "919757241431"
+        ]
+    },
+    {
+        "Target": "http://www.artistic-treasures.com",
+        "E-Mails": [
+            "info@artistic-treasures.com",
+            "info@artistic-treasures.com?subject=Information Request from artistic-treasures.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/artistictreasures",
+            "https://www.instagram.com/artistictreasures.art/",
+            "https://www.pinterest.com/artistictreasuresart",
+            "https://www.linkedin.com/in/artistic-treasures-2b6880267/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.thelabellife.com",
+        "E-Mails": [
+            "help@thelabellife.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/thelabellife/",
+            "https://www.instagram.com/thelabellife/",
+            "https://in.pinterest.com/thelabellifecom/",
+            "https://www.youtube.com/user/TheHomeLabel"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.tjori.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/tjori.designs",
+            "https://www.twitter.com/Tjoritreasures",
+            "https://www.instagram.com/tjoritreasures",
+            "https://in.pinterest.com/tjoritreasures",
+            "https://www.youtube.com/Tjori"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.artzfolio.com",
+        "E-Mails": [
+            "help@artzfolio.com",
+            "%20help@artzfolio.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/ArtzFolio/",
+            "https://twitter.com/ArtzFolio/",
+            "https://www.instagram.com/artzfolio/",
+            "https://www.pinterest.com/artzfolio/",
+            "https://www.youtube.com/c/ArtzfolioStore/videos"
+        ],
+        "Numbers": [
+            "2190072900",
+            "47900191900",
+            "1690055900",
+            "1218305457",
+            "919911722260"
+        ]
+    },
+    {
+        "Target": "http://www.indianara.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552"
+        ]
+    },
+    {
+        "Target": "http://www.worldartcommunity.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://www.facebook.com/worldartcommunity.in",
+            "https://twitter.com/wrldartcomunity",
+            "http://www.pinterest.com/theworldartcomm/",
+            "https://www.linkedin.com/company/worldartcommunity-com",
+            "https://www.instagram.com/worldartcommunity/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.artzyme.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/artzyme",
+            "https://twitter.com/Artzyme4u",
+            "https://www.instagram.com/Artzyme4u",
+            "https://www.youtube.com/artzyme4u",
+            "https://www.twitter.com/Artzyme4u",
+            "https://uk.pinterest.com/artzyme4u"
+        ],
+        "Numbers": [
+            "4803042017"
+        ]
+    },
+    {
+        "Target": "http://www.bluegape.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.tallenge.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://twitter.com/TallengeStore",
+            "https://www.facebook.com/tallengestore",
+            "https://instagram.com/tallengestore/",
+            "https://www.pinterest.com/tallengestore"
+        ],
+        "Numbers": [
+            "66354560095"
+        ]
+    },
+    {
+        "Target": "http://www.creativeelements.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.eliteinteriors.co.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.infinitydesigns.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.linkedin.com/company/infinitydesignsindia/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.jazzyinteriors.com",
+        "E-Mails": [
+            "sales@buydomains.com"
+        ],
+        "SocialMedia": [],
+        "Numbers": [
+            "912267209070"
+        ]
+    },
+    {
+        "Target": "http://www.ugaoo.com",
+        "E-Mails": [
+            "?&subject=Peace%20Lily%20Plant&body=https://www.ugaoo.com/products/peace-lily-plant"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/ugaooindia",
+            "https://twitter.com/Ugaooindia",
+            "https://www.instagram.com/ugaoo/",
+            "https://in.linkedin.com/company/ugaoo",
+            "https://www.youtube.com/channel/UCr7jDFF5MO-4-BtcrVDNVxA",
+            "https://www.youtube.com/embed/Cdj_sMKgCO0?controls=1&enablejsapi=1&modestbranding=1&origin=https%3A%2F%2Fwww.ugaoo.com&playsinline=1&rel=0",
+            "//www.facebook.com/sharer.php?u=https://www.ugaoo.com/products/peace-lily-plant",
+            "//twitter.com/share?text=Peace%20Lily%20Plant&url=https://www.ugaoo.com/products/peace-lily-plant",
+            "//pinterest.com/pin/create/button/?url=https://www.ugaoo.com/products/peace-lily-plant&media=//www.ugaoo.com/cdn/shop/products/GroPot.jpg?v=1680418153&description=Peace%20Lily%20Plant"
+        ],
+        "Numbers": [
+            "919129912991"
+        ]
+    },
+    {
+        "Target": "http://www.chhajedgarden.com",
+        "E-Mails": [
+            "sales@chhajedgarden.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/ChhajedGarden",
+            "https://www.instagram.com/chhajedgardens/",
+            "https://www.youtube.com/c/SonalChhajed"
+        ],
+        "Numbers": [
+            "917303231231"
+        ]
+    },
+    {
+        "Target": "http://www.caneboutique.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.instagram.com/cane_boutique/?hl=en",
+            "https://www.facebook.com/Caneboutique/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.exoticflora.in",
+        "E-Mails": [
+            "support@exoticflora.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/onlinenursery/",
+            "https://www.instagram.com/exoticflora_gogreen/"
+        ],
+        "Numbers": [
+            "919177805454",
+            "0200080000"
+        ]
+    },
+    {
+        "Target": "http://www.thegardenstore.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://artlivo.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Artlivo",
+            "https://www.instagram.com/artlivo_official/",
+            "https://www.facebook.com/sharer/sharer.php?u=https://www.artlivo.com/everyones-desire-buying-extraordinary-coffee-tables-online-from-artlivo",
+            "https://www.facebook.com/sharer/sharer.php?u=https://www.artlivo.com/elevate-your-living-space-with-stunning-home-decor-wall-decor",
+            "https://www.facebook.com/sharer/sharer.php?u=https://www.artlivo.com/elevate-your-hotels-ambiance-with-thoughtfully-chosen-furniture"
+        ],
+        "Numbers": [
+            "917822800800",
+            "17999002021",
+            "0011466521",
+            "1699917999",
+            "1999913999"
+        ]
+    },
+    {
+        "Target": "http://craftedindia.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552"
+        ]
+    },
+    {
+        "Target": "http://thehomedekor.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://twitter.com/TheHomeDekor",
+            "https://www.facebook.com/thehomedekor/",
+            "https://www.instagram.com/thehomedekor/",
+            "https://in.pinterest.com/thehomedekor/",
+            "https://www.youtube.com/channel/UCUQXJT_PfDdm6Dqnm5Yed9Q"
+        ],
+        "Numbers": [
+            "660000830000",
+            "5262023246240",
+            "1252023437101"
+        ]
+    },
+    {
+        "Target": "http://www.roman.co.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.yalelock.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.august.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.instagram.com/augusthomeinc/",
+            "https://www.facebook.com/AugustHomeInc/",
+            "https://twitter.com/augusthomeinc",
+            "https://www.youtube.com/user/AugustLock",
+            "https://www.pinterest.com/augusthomeinc/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.kwikset.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://www.kwikset.com//www.facebook.com/kwiksetlocks",
+            "http://www.kwikset.com//www.instagram.com/kwikset/",
+            "http://www.kwikset.com//twitter.com/kwiksetcorp",
+            "http://www.kwikset.com//www.pinterest.com/kwikset/",
+            "http://www.kwikset.com//www.youtube.com/kwikset"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.dott.co.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.lutron.com/en-US/",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://www.youtube.com/user/LutronElectronicsInc",
+            "http://www.facebook.com/pages/Lutron-Electronics/129003657211042",
+            "http://www.pinterest.com/lutron",
+            "http://www.twitter.com/lutron",
+            "http://www.linkedin.com/company/lutron-electronics/careers",
+            "https://www.instagram.com/lutronelectronics/"
+        ],
+        "Numbers": [
+            "188815887661"
+        ]
+    },
+    {
+        "Target": "http://www.leviton.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://www.facebook.com/leviton",
+            "http://twitter.com/leviton",
+            "https://www.linkedin.com/company/leviton/",
+            "https://www.youtube.com/c/leviton?sub_confirmation=1",
+            "https://www.instagram.com/leviton/",
+            "https://www.pinterest.com/leviton",
+            "https://www.reddit.com/r/homeautomation/comments/uiz26f/ama_leviton_smart_home/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.somasmarthome.com",
+        "E-Mails": [
+            "support@somasmarthome.com"
+        ],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.dooya.in",
+        "E-Mails": [
+            "info@vyomaexim.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/vyomaexim/",
+            "https://www.instagram.com/vyomawindowblinds/"
+        ],
+        "Numbers": [
+            "917666356283",
+            "917400437701"
+        ]
+    },
+    {
+        "Target": "http://www.jindalhome.com",
+        "E-Mails": [
+            "enquiry@jindalhome.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/Jindalhomeproducts",
+            "https://www.instagram.com/jindal_home_products",
+            "https://www.youtube.com/channel/UCVgRJGaGqPo4VhWau9TvJjQ",
+            "https://twitter.com/jindal_home",
+            "https://www.linkedin.com/in/jindal-home-textile"
+        ],
+        "Numbers": [
+            "919316750757",
+            "7234382445"
+        ]
+    },
+    {
+        "Target": "http://www.tp-link.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/tplinkind",
+            "https://www.youtube.com/user/TPLINKTECH",
+            "https://www.linkedin.com/company/tp-link-india",
+            "https://twitter.com/TPLINK_INDIA",
+            "https://www.instagram.com/tplink_india/"
+        ],
+        "Numbers": [
+            "1600016610"
+        ]
+    },
+    {
+        "Target": "http://www.mi.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/XiaomiIndia/",
+            "https://twitter.com/XiaomiIndia",
+            "https://www.instagram.com/xiaomiindia/"
+        ],
+        "Numbers": [
+            "1251499921199"
+        ]
+    },
+    {
+        "Target": "http://www.belkin.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.twitter.com/belkin",
+            "https://www.facebook.com/belkin",
+            "https://www.instagram.com/belkin",
+            "https://www.linkedin.com/company/belkin/",
+            "https://www.youtube.com/belkin"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.techinnovators.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/meetpachchigar",
+            "https://twitter.com/meet_pachchigar",
+            "https://www.linkedin.com/in/meet-pachchigar-b604a61a/",
+            "https://www.facebook.com/harsh.mehta.982",
+            "https://twitter.com/MehtaHarsh15/",
+            "https://www.linkedin.com/in/harsh-mehta-39137435/"
+        ],
+        "Numbers": [
+            "919913225431"
+        ]
+    },
+    {
+        "Target": "http://www.smartwaves.in",
+        "E-Mails": [
+            "info@smartwaves.in"
+        ],
+        "SocialMedia": [],
+        "Numbers": [
+            "919059477911"
+        ]
+    },
+    {
+        "Target": "http://www.sensortechindia.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.smartliving.co.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.iottech.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.homeiq.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.mnodesigns.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.woodcraftindia.com",
+        "E-Mails": [
+            "woodcraft@woodcraftindia.com"
+        ],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.centuryply.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/CenturyPlyOfficial",
+            "https://twitter.com/CenturyPlyIndia",
+            "https://www.youtube.com/user/CENTURYPLY1986",
+            "https://www.instagram.com/centuryply/",
+            "https://www.linkedin.com/company/century-plyboards-i-limited"
+        ],
+        "Numbers": [
+            "18005722122",
+            "3339403950"
+        ]
+    },
+    {
+        "Target": "http://www.archidply.com",
+        "E-Mails": [
+            "info@archidply.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/Archidplyindustrial",
+            "https://twitter.com/archidplyIND",
+            "https://www.instagram.com/archidply_/",
+            "https://www.linkedin.com/company/archidply-industries-ltd/",
+            "https://www.youtube.com/channel/UCj_Zi94i0iwr3HYFgv1kc2Q"
+        ],
+        "Numbers": [
+            "919711070340"
+        ]
+    },
+    {
+        "Target": "http://www.kitply.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/kitplyindltd",
+            "https://www.instagram.com/kitplyindltd",
+            "https://www.youtube.com/channel/UCr_4MzJVEHQV-uXhko2jSjA?view_as=subscriber",
+            "https://twitter.com/kitplyindltd",
+            "https://www.linkedin.com/company/kitplyindltd"
+        ],
+        "Numbers": [
+            "9432494324",
+            "03322495009"
+        ]
+    },
+    {
+        "Target": "http://www.rockfon.in",
+        "E-Mails": [
+            "1-800-323-7164cs@rockfon.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/RockfonNA",
+            "https://www.youtube.com/channel/UCgP0wiE_x1GjASK2gEHmR8w?view_as=subscriber",
+            "https://www.linkedin.com/company/rockfon-north-america/",
+            "https://www.instagram.com/rockfon_na/",
+            "https://www.pinterest.com/RockfonNA/"
+        ],
+        "Numbers": [
+            "3090635580",
+            "18003237164"
+        ]
+    },
+    {
+        "Target": "http://www.gyptech.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Gypsum-Technologies-Inc-596376443882350/",
+            "https://twitter.com/Gyptech",
+            "https://www.linkedin.com/company/gypsum-technologies/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.asianpaints.com/nilaya",
+        "E-Mails": [
+            "customercare@asianpaints.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/asianpaints",
+            "https://twitter.com/asianpaints",
+            "https://in.pinterest.com/asianpaints/",
+            "https://www.youtube.com/user/AsianPaintsIndia",
+            "https://www.instagram.com/asianpaints/"
+        ],
+        "Numbers": [
+            "18002095678"
+        ]
+    },
+    {
+        "Target": "http://www.marshallsindia.com",
+        "E-Mails": [
+            "esales@marshallsindia.com",
+            "sales@marshallsindia.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/MarshallsWallcoverings?fref=ts",
+            "https://www.instagram.com/marshallswallcoverings/",
+            "https://www.youtube.com/user/MarshallsIndia"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.excelwallpapers.com",
+        "E-Mails": [
+            "reachus@excelwallpapers.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/excelwallcoverings",
+            "https://www.instagram.com/excelwallcoverings/",
+            "https://www.youtube.com/c/ExcelWallCoverings/videos",
+            "https://www.linkedin.com/company/excel-wallcoverings/"
+        ],
+        "Numbers": [
+            "913340560400",
+            "301164700014"
+        ]
+    },
+    {
+        "Target": "http://www.muraspec.com",
+        "E-Mails": [
+            "customerservices@muraspec.com",
+            "contact@fardis.com"
+        ],
+        "SocialMedia": [
+            "http://www.facebook.com/muraspec",
+            "http://www.twitter.com/muraspec",
+            "https://www.youtube.com/channel/UC6U11u6Jsz6IJ6bd00H7nOQ",
+            "https://www.linkedin.com/company/83404?trk=tyah&trkInfo=idx%3A2-1-3%2CtarId%3A1426253625447%2Ctas%3AMuraspec",
+            "https://www.instagram.com/muraspec/"
+        ],
+        "Numbers": [
+            "4403705117118",
+            "1140911401"
+        ]
+    },
+    {
+        "Target": "http://www.wallskin.in",
+        "E-Mails": [
+            "contact@wallskin.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/wallskin",
+            "https://www.instagram.com/wallskin/",
+            "https://www.pinterest.com/wallskin01/"
+        ],
+        "Numbers": [
+            "919167323355"
+        ]
+    },
+    {
+        "Target": "http://www.murwall.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://pinterest.com/wallmurcom/",
+            "https://instagram.com/wallmurcom/",
+            "https://www.youtube.com/@wallmur1396",
+            "https://www.facebook.com/wallmur/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.ceilingsindia.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.artisticspaces.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552"
+        ]
+    },
+    {
+        "Target": "http://www.royaledecor.com",
+        "E-Mails": [
+            "sales@buydomains.com"
+        ],
+        "SocialMedia": [],
+        "Numbers": [
+            "912267209070",
+            "7813736820"
+        ]
+    },
+    {
+        "Target": "http://www.dormakaba.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.ecoste.in",
+        "E-Mails": [
+            "support21@ecoste.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/Ecostewpc/",
+            "https://twitter.com/Ecostewpc",
+            "https://www.instagram.com/ecosteindia/",
+            "https://www.linkedin.com/company/Ecostewpc",
+            "https://in.pinterest.com/ecostewpc/",
+            "https://www.youtube.com/watch?v=KYuKNHLb_zA",
+            "https://www.youtube.com/watch?v=PTYOc3ITl7g",
+            "httpshttps://www.linkedin.com/company/ecostewpc",
+            "https://www.youtube.com/ecosteindia"
+        ],
+        "Numbers": [
+            "919555075075"
+        ]
+    },
+    {
+        "Target": "http://www.fundermax.at",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Fundermax",
+            "https://www.instagram.com/fundermax_gmbh/",
+            "https://www.linkedin.com/company/fundermax-gmbh/",
+            "https://www.youtube.com/user/FunderMaxGmbH"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.gyproc.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Gyprocindia",
+            "https://twitter.com/Gyprocindia",
+            "https://www.linkedin.com/company/gyproc-india?trk=tyah&trkInfo=idx:1-1-1,tarId:1425316490643,tas:gyproc+india",
+            "https://www.youtube.com/user/Gyprocindia",
+            "https://in.pinterest.com/gyprocindia/",
+            "https://www.instagram.com/gyproc_india/?igshid=lmbb3nhktqyz",
+            "https://www.youtube.com/watch?v=PWv2GieKC_8"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://evok.in",
+        "E-Mails": [
+            "evokcare@evok.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/EvokHomes/",
+            "https://www.instagram.com/evokhomes/",
+            "https://twitter.com/evokhomes",
+            "https://www.pinterest.com/evokhomes/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.urbanloom.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552"
+        ]
+    },
+    {
+        "Target": "http://www.zuari-furniture.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "914427662420",
+            "914427661780"
+        ]
+    },
+    {
+        "Target": "http://www.pidilite.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/pilindia/",
+            "https://www.youtube.com/user/PidiliteIndia",
+            "https://www.linkedin.com/company/pidilite-industries",
+            "https://www.instagram.com/pidilitecareers"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.sika.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Sikaindia/",
+            "https://www.linkedin.com/company/sika/?viewAsMember=true",
+            "https://www.instagram.com/sika_in/"
+        ],
+        "Numbers": [
+            "2523201530577",
+            "02262704038"
+        ]
+    },
+    {
+        "Target": "http://www.fosroc.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://www.linkedin.com/company/fosroc",
+            "https://en-gb.facebook.com/Fosroc-International-Limited-266136616743947/",
+            "https://twitter.com/fosrocuk",
+            "http://www.youtube.com/channel/UCV4y2lTleLOILPHN1MUm99A"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.bostik.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://linkedin.com/company/bostik/",
+            "https://www.facebook.com/BostikGroup",
+            "https://twitter.com/bostik",
+            "https://www.youtube.com/channel/UCmllYhmjagiBeI8nhE9AFFg",
+            "https://www.instagram.com/bostikofficial/",
+            "https://facebook.com/sharer/sharer.php?u=@url@",
+            "https://twitter.com/intent/tweet/?text=@title@&url=@url@",
+            "https://pinterest.com/pin/create/button/?url=@url@media=@url@&description=@title@",
+            "https://www.linkedin.com/shareArticle?mini=true&url=@url@&title=@title@&summary=@title@&source=@url@"
+        ],
+        "Numbers": [
+            "33149007502"
+        ]
+    },
+    {
+        "Target": "http://www.ardexendura.com",
+        "E-Mails": [
+            "customercare@ardexendura.com"
+        ],
+        "SocialMedia": [
+            "https://www.linkedin.com/company/ardex-endura-india-pvt.-ltd./",
+            "https://www.youtube.com/c/ARDEXENDURAINDIA",
+            "https://www.facebook.com/ArdexEnduraIndia/",
+            "https://www.instagram.com/ardexendura/"
+        ],
+        "Numbers": [
+            "918066746500"
+        ]
+    },
+    {
+        "Target": "http://www.orientbell.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/OrientBellTiles/",
+            "https://www.linkedin.com/company/orientbellltd",
+            "https://twitter.com/OrientbellTiles",
+            "https://www.instagram.com/orientbell/?hl=en"
+        ],
+        "Numbers": [
+            "180020810150",
+            "1951200295295"
+        ]
+    },
+    {
+        "Target": "http://www.simpolo.net",
+        "E-Mails": [
+            "customercare@simpolo.net"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/simpoloceramic",
+            "https://www.instagram.com/simpoloceramics",
+            "https://twitter.com/simpoloceramics",
+            "https://www.linkedin.com/company/simpoloceramic/",
+            "https://www.youtube.com/channel/UCMEkOkZVMJgODJYrCjlAndQ",
+            "https://in.pinterest.com/simpoloceramic/"
+        ],
+        "Numbers": [
+            "917228922222"
+        ]
+    },
+    {
+        "Target": "http://www.johnsontiles.com",
+        "E-Mails": [
+            "tiles.customercare@prismjohnson.in",
+            "exports.customercare@prismjohnson.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/HRJIndia",
+            "https://twitter.com/Hrjohnsonindia",
+            "https://www.instagram.com/hrjohnson_india/",
+            "https://in.linkedin.com/company/h-&-r-johnson-india-prism-johnson-limited",
+            "https://www.youtube.com/user/Hrjohnsonindia1"
+        ],
+        "Numbers": [
+            "918451057484",
+            "18002107484",
+            "1800227484"
+        ]
+    },
+    {
+        "Target": "http://www.aglasiangranito.com",
         "E-Mails": [
             "info@aglasiangranito.com"
         ],
@@ -75,5 +1049,2744 @@
             "917966125698",
             "18001233455"
         ]
+    },
+    {
+        "Target": "http://www.classicmarble.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/classicmarblecompany2.0",
+            "https://instagram.com/classicmarblecompany?igshid=10hfyccpnwnkx",
+            "https://www.linkedin.com/company/classic-marble-company/"
+        ],
+        "Numbers": [
+            "912241404140",
+            "912241404141"
+        ]
+    },
+    {
+        "Target": "http://www.sleekworld.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/embed/jZ2arxbFHiQ",
+            "https://www.youtube.com/embed/NK6fOGlKZDA",
+            "https://www.youtube.com/embed/j1Obm0bpaDQ",
+            "https://www.facebook.com/pages/Sleek-World/256126811357",
+            "https://twitter.com/SleekKitchens",
+            "http://www.youtube.com/user/vd6085?feature=mhee",
+            "http://www.pinterest.com/sleekinquiries/",
+            "https://www.instagram.com/sleekkitchens"
+        ],
+        "Numbers": [
+            "18002120500"
+        ]
+    },
+    {
+        "Target": "http://www.homelane.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://inoxdecor.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.instagram.com/inox.decor/",
+            "https://www.facebook.com/inoxdecorpvtltd",
+            "https://twitter.com/decor_inox",
+            "https://www.youtube.com/@inoxdecorpvtltd"
+        ],
+        "Numbers": [
+            "20002501000",
+            "412400614900",
+            "371900547400",
+            "594900446200",
+            "204900153700",
+            "7590056900",
+            "674300995200",
+            "138900104200",
+            "290900661400",
+            "2990062200",
+            "145900109400",
+            "303900227900",
+            "8174001222400",
+            "722200951700",
+            "7499001087400",
+            "207900155900",
+            "116900152900",
+            "9524001677700",
+            "8174002072200",
+            "155900594700",
+            "155900951700",
+            "155900486700",
+            "155900682400",
+            "572200835400",
+            "1299900974900",
+            "9524001850200",
+            "3290024700",
+            "298400929900",
+            "442400479900",
+            "747900560900",
+            "88400209900",
+            "160400225700",
+            "175400269900",
+            "167900290200",
+            "137200185200",
+            "169400225700",
+            "184900138700",
+            "311900233900",
+            "590000806900",
+            "5887001169900",
+            "1017900763400",
+            "224900269900",
+            "160400284200",
+            "167900254900",
+            "137200224900",
+            "185900262400",
+            "160400203900",
+            "7490056200",
+            "116900254900",
+            "203900262400",
+            "6390047900",
+            "400400668900",
+            "12390092900",
+            "5470063700",
+            "261900196400",
+            "9590071900",
+            "5887001222400",
+            "12690095200",
+            "47900104900",
+            "225900169400",
+            "209900157400",
+            "9524001927400",
+            "4057001019900",
+            "532400872200",
+            "279900209900",
+            "3915001559900",
+            "746900560200",
+            "639900479900",
+            "333900250400",
+            "479900749900",
+            "88400427400",
+            "88400459700",
+            "6700153700",
+            "175900131900",
+            "1870071900",
+            "155900116900",
+            "4490033700",
+            "1814001169900",
+            "181400885700",
+            "181400479900",
+            "181400966700",
+            "181400637400",
+            "181400396700",
+            "146200181400",
+            "116900356900",
+            "181400545200",
+            "4700102700",
+            "729900547400",
+            "495900371900",
+            "330900248200",
+            "3990029900",
+            "299900224900",
+            "4790035900",
+            "1390010400",
+            "500200594700",
+            "4120061400",
+            "3700209900",
+            "01146467777",
+            "919717458826"
+        ]
+    },
+    {
+        "Target": "http://www.whiteteak.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://facebook.com/WhiteTeakCo/",
+            "https://twitter.com/WhiteTeakCo",
+            "https://www.instagram.com/thewhiteteak/",
+            "https://in.pinterest.com/WhiteTeakCo/",
+            "https://www.youtube.com/channel/UC0xTL7ZiRWdvLVUVbLFF1cA",
+            "https://www.instagram.com/p/CvuVD_NJpnZ/",
+            "https://www.instagram.com/p/CvrwSBVOS4m/",
+            "https://www.instagram.com/p/CvpLeIQJZlT/",
+            "https://www.instagram.com/p/CvmmrRDp-NN/",
+            "https://www.instagram.com/p/CvkB4l5paee/",
+            "https://www.instagram.com/p/CvhdFiPJjMX/"
+        ],
+        "Numbers": [
+            "18001030054"
+        ]
+    },
+    {
+        "Target": "http://www.regentlighting.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.linkedin.com/company/regent-lighting/",
+            "https://www.instagram.com/regent_lighting/",
+            "https://www.youtube.com/channel/UCR-jD-DVtK8FbuSlh9TRSIQ/videos",
+            "https://www.facebook.com/RegentLightingGlobal/"
+        ],
+        "Numbers": [
+            "41800990007"
+        ]
+    },
+    {
+        "Target": "http://www.lalhaveli.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552",
+            "27951164624"
+        ]
+    },
+    {
+        "Target": "http://www.whiteteak.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://facebook.com/WhiteTeakCo/",
+            "https://twitter.com/WhiteTeakCo",
+            "https://www.instagram.com/thewhiteteak/",
+            "https://in.pinterest.com/WhiteTeakCo/",
+            "https://www.youtube.com/channel/UC0xTL7ZiRWdvLVUVbLFF1cA",
+            "https://www.instagram.com/p/CvuVD_NJpnZ/",
+            "https://www.instagram.com/p/CvrwSBVOS4m/",
+            "https://www.instagram.com/p/CvpLeIQJZlT/",
+            "https://www.instagram.com/p/CvmmrRDp-NN/",
+            "https://www.instagram.com/p/CvkB4l5paee/",
+            "https://www.instagram.com/p/CvhdFiPJjMX/"
+        ],
+        "Numbers": [
+            "18001030054"
+        ]
+    },
+    {
+        "Target": "http://www.ddecor.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Ddecor",
+            "https://www.instagram.com/ddecordiaries/",
+            "https://in.pinterest.com/DDecorDiaries/",
+            "https://www.youtube.com/user/DDecorHomes",
+            "https://in.linkedin.com/company/d%27decor-home-fabrics",
+            "https://twitter.com/DDecorDiaries"
+        ],
+        "Numbers": [
+            "18002679008"
+        ]
+    },
+    {
+        "Target": "http://www.thebohostudio.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.lumino.co",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.luminousindia.com",
+        "E-Mails": [
+            "care@luminousindia.com",
+            "brand@luminousindia.com",
+            "sales@luminous-global.com",
+            "connect@luminousindia.com"
+        ],
+        "SocialMedia": [
+            "https://in.linkedin.com/company/luminous-power-technologies-p-ltd",
+            "https://www.instagram.com/luminous_officials/?hl=en",
+            "https://twitter.com/myluminous?lang=en",
+            "https://www.facebook.com/myluminous/",
+            " https://www.youtube.com/channel/UCw6k_Tm3O0MI23ah2SBYB3Q"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.crompton.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.instagram.com/crompton_india",
+            "https://www.youtube.com/channel/UCeywFNDQrMfQ5XrcjBQIU2g",
+            "https://www.facebook.com/Crompton.India/",
+            "https://twitter.com/Crompton_India"
+        ],
+        "Numbers": [
+            "18004190505",
+            "912261678499"
+        ]
+    },
+    {
+        "Target": "http://www.tatasteel.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/TataSteelLtd/",
+            "https://twitter.com/Tatasteelltd",
+            "https://www.linkedin.com/company/tatasteelltd",
+            "https://www.youtube.com/user/Thetatasteel/",
+            "https://www.instagram.com/tatasteelltd/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.versastairs.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.interiorcrafters.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.crownrailings.com",
+        "E-Mails": [
+            "Dmfranksgc@gmail.com"
+        ],
+        "SocialMedia": [],
+        "Numbers": [
+            "8043802275",
+            "11201223224"
+        ]
+    },
+    {
+        "Target": "http://www.shadecrafters.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.excelshades.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.ornatecreations.com",
+        "E-Mails": [
+            "webmaster@ornatecreations.com"
+        ],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.shriramgrill.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552"
+        ]
+    },
+    {
+        "Target": "http://www.royalfabrications.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.polycab.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.atomberg.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.superfan.in",
+        "E-Mails": [
+            "superfan@superfan.in"
+        ],
+        "SocialMedia": [
+            "https://www.youtube.com/watch?v=0ilTLVXKC_g ",
+            "https://www.youtube.com/watch?v=0ilTLVXKC_g",
+            "https://www.youtube.com/watch?v=PK4ZwwHIvA0 ",
+            "https://www.youtube.com/watch?v=PK4ZwwHIvA0",
+            "https://www.youtube.com/watch?v=xxJTX7EW8Aw ",
+            "https://www.youtube.com/watch?v=xxJTX7EW8Aw",
+            "https://www.youtube.com/watch?v=_rCAYBzi250 ",
+            "https://www.youtube.com/watch?v=_rCAYBzi250",
+            "https://www.youtube.com/watch?v=GDHUePV06_I"
+        ],
+        "Numbers": [
+            "180042578737"
+        ]
+    },
+    {
+        "Target": "http://www.luminousindia.com",
+        "E-Mails": [
+            "care@luminousindia.com",
+            "brand@luminousindia.com",
+            "sales@luminous-global.com",
+            "connect@luminousindia.com"
+        ],
+        "SocialMedia": [
+            "https://in.linkedin.com/company/luminous-power-technologies-p-ltd",
+            "https://www.instagram.com/luminous_officials/?hl=en",
+            "https://twitter.com/myluminous?lang=en",
+            "https://www.facebook.com/myluminous/",
+            " https://www.youtube.com/channel/UCw6k_Tm3O0MI23ah2SBYB3Q"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.khaitan.com",
+        "E-Mails": [
+            "customercare@khaitan.com",
+            "info@khaitan.com",
+            "CUSTOMERCARE@KHAITAN.COM"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/khaitan.fans/",
+            "https://www.instagram.com/khaitan_fan/"
+        ],
+        "Numbers": [
+            "8584828210",
+            "7603060192",
+            "03340505000",
+            "4620700071"
+        ]
+    },
+    {
+        "Target": "http://www.vguard.in",
+        "E-Mails": [
+            "customercare@vguard.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/VGuardOnline",
+            "https://twitter.com/VGuardOfficial",
+            "https://www.youtube.com/user/VguardOnline",
+            "https://www.linkedin.com/company/v-guard"
+        ],
+        "Numbers": [
+            "9633503333",
+            "18001031300",
+            "18601803000"
+        ]
+    },
+    {
+        "Target": "http://www.voltas.com",
+        "E-Mails": [
+            "wecare@voltasbeko.com",
+            "vcare@voltas.com"
+        ],
+        "SocialMedia": [
+            "https://www.instagram.com/myvoltas/",
+            "https://www.facebook.com/MyVoltas",
+            "https://www.youtube.com/channel/UCWlFGZtFELJfHUfgGsY9-0g",
+            "https://twitter.com/myvoltas",
+            "https://in.linkedin.com/company/voltas-limited"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.bluestarindia.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/BlueStarLimited/",
+            "https://twitter.com/BlueStarLtd",
+            "https://www.linkedin.com/company/blue-star-limited/",
+            "https://www.instagram.com/bluestar_ltd/",
+            "https://www.youtube.com/user/BlueStarIndia"
+        ],
+        "Numbers": [
+            "1241262226176",
+            "32322795841",
+            "1872178820"
+        ]
+    },
+    {
+        "Target": "http://www.lg.com/in",
+        "E-Mails": [
+            "b2bsupport.india@lgepartner.com",
+            " b2b.solutions@lge.com",
+            " cac.service@lgepartner.com",
+            "sac.marketing@lge.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/LGIndiaPage/",
+            "https://www.instagram.com/lg_india/",
+            "https://twitter.com/lgindia",
+            "https://www.youtube.com/user/LGIndiachannel",
+            "https://www.linkedin.com/company/lg-electronics-india-pvt-ltd"
+        ],
+        "Numbers": [
+            "9711709999",
+            "08069379999"
+        ]
+    },
+    {
+        "Target": "http://www.samsung.com/in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://www.samsung.com/in//www.facebook.com/SamsungIndia",
+            "http://www.samsung.com/in//twitter.com/samsungindia",
+            "http://www.samsung.com/in//www.instagram.com/samsungindia/",
+            "http://www.samsung.com/in//www.youtube.com/SamsungMobileIndia",
+            "http://www.samsung.com/in//www.linkedin.com/company/samsung-india"
+        ],
+        "Numbers": [
+            "38115406216",
+            "3302133784149",
+            "3454526999",
+            "1385569990",
+            "108436030990",
+            "13999925000",
+            "7799922000"
+        ]
+    },
+    {
+        "Target": "http://www.carrierindia.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.linkedin.com/company/carrierindia",
+            "https://www.facebook.com/CarrierhvacIndia",
+            "https://twitter.com/carrierindia"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.hitachiaircon.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.godrej.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/user/godrejgroup",
+            "https://www.facebook.com/GodrejGroup",
+            "https://www.linkedin.com/company/godrej/",
+            "https://twitter.com/GodrejGroup",
+            "https://www.instagram.com/godrej_group/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.whirlpoolindia.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.artisticcreations.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.greengarden.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/sharer/sharer.php?u=https://daaz.com/buy/make/offer/domains/greengarden.in&src=sdkpreparse",
+            "https://twitter.com/intent/tweet?text= greengarden.in  is available in Buy now and Make an offer: https://daaz.com/buy/make/offer/domains/greengarden.in  and price is 1500USD "
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.urbangreens.com",
+        "E-Mails": [
+            "info@urbangreens.com"
+        ],
+        "SocialMedia": [
+            "https://www.instagram.com/urbangreenscoopmarket/",
+            "https://www.instagram.com/p/Cvw0s-XMYYw/",
+            "https://www.instagram.com/p/CvtojSKNc1L/",
+            "https://www.instagram.com/reel/CvsnnXMAVdr/",
+            "https://www.instagram.com/p/CvsC08DrSui/",
+            "https://www.facebook.com/urbangreens",
+            "https://twitter.com/urbangreensprov",
+            "https://www.youtube.com/channel/UC75wUK8YlZ8DPUEzHZH5s0Q"
+        ],
+        "Numbers": [
+            "202120222023"
+        ]
+    },
+    {
+        "Target": "http://www.verdantspaces.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.greenthumb.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/groups/2090395861023139/",
+            "http://www.instagram.com/greenthumbnursery",
+            "https://www.pinterest.com/greenthumbnurseries/boards/",
+            "https://www.youtube.com/channel/UC3T_xWGafE2jBZDwGS1d1Tg/?sub_confirmation=1",
+            "https://www.youtube.com/channel/UC3T_xWGafE2jBZDwGS1d1Tg?sub_confirmation=1",
+            "https://www.facebook.com/groups/greenthumb.gardenershare/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.earthydelights.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.thelivinggreens.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/rooffarm/",
+            "https://www.linkedin.com/company/thelivinggreensorganics/",
+            "https://www.instagram.com/livinggreensorganics/",
+            "https://twitter.com/TheLivingGreen1",
+            "https://www.youtube.com/channel/UCMfxB5gW95KRBikLYMyQoyg"
+        ],
+        "Numbers": [
+            "583584302019",
+            "917240755755"
+        ]
+    },
+    {
+        "Target": "http://www.greenrevolution.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.urbangreenery.com",
+        "E-Mails": [
+            "sales@buydomains.com"
+        ],
+        "SocialMedia": [],
+        "Numbers": [
+            "912267209070"
+        ]
+    },
+    {
+        "Target": "http://www.hunterindustries.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://www.youtube.com/user/HunterIrrigationProd",
+            "https://www.facebook.com/HunterIndustries",
+            "https://twitter.com/#!/Hunter_Ind",
+            "https://www.linkedin.com/company/21026/",
+            "https://www.instagram.com/hunterindustries"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.jains.com",
+        "E-Mails": [
+            "customercare@jains.com"
+        ],
+        "SocialMedia": [
+            "https://www.twitter.com/jainirrigation",
+            "https://www.youtube.com/jisljains?sub_confirmation=1",
+            "https://www.instagram.com/jainirrigation_",
+            "https://in.linkedin.com/company/jain-irrigation-systems-ltd-",
+            "https://www.youtube.com/watch?v=iFfXUUnvWNQ",
+            "https://www.youtube.com/watch?v=6-QC2yX306A"
+        ],
+        "Numbers": [
+            "18005995000",
+            "42323262023"
+        ]
+    },
+    {
+        "Target": "http://www.netafimindia.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.instagram.com/netafimindia_official/",
+            "https://www.facebook.com/netafimindia/",
+            "https://twitter.com/NetafimIndia",
+            "https://www.youtube.com/user/netafimindia",
+            "https://www.linkedin.com/company/netafim-india-pvt-ltd/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.wurfel.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/brandwurfel",
+            "https://www.instagram.com/wurfel.in/",
+            "https://in.pinterest.com/wurfelkuche0343/",
+            "https://www.youtube.com/channel/UCJlnmri_wvVOBQoN1XwL0Rg"
+        ],
+        "Numbers": [
+            "180030002926"
+        ]
+    },
+    {
+        "Target": "http://www.godrej.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/user/godrejgroup",
+            "https://www.facebook.com/GodrejGroup",
+            "https://www.linkedin.com/company/godrej/",
+            "https://twitter.com/GodrejGroup",
+            "https://www.instagram.com/godrej_group/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.saint-gobain.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/saintgobaingroup",
+            "http://www.pinterest.com/saintgobainnews/",
+            "https://twitter.com/SaintGobain",
+            "http://www.youtube.com/user/SaintGobainTV",
+            "https://www.linkedin.com/company/saint-gobain-group-india/",
+            "http://instagram.com/saintgobaingroup"
+        ],
+        "Numbers": [
+            "912240212121",
+            "914445936000",
+            "918042468989"
+        ]
+    },
+    {
+        "Target": "http://www.invotis.com",
+        "E-Mails": [
+            "info@invotis.com"
+        ],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://evolve-india.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://fabdiz.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "21891560043",
+            "919606459716",
+            "101020203030"
+        ]
+    },
+    {
+        "Target": "http://kone.co.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://aldora.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/aldora",
+            "https://www.instagram.com/aldora",
+            "https://www.twitter.com/aldora"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.woodcraftgallery.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.craftedinteriors.com",
+        "E-Mails": [
+            "info@craftedinteriors.com"
+        ],
+        "SocialMedia": [
+            "https://www.instagram.com/craftedinteriors/",
+            "https://www.facebook.com/craftedinteriorsny/",
+            "https://www.pinterest.com/craftedinteriors/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.diamondgypsum.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552",
+            "22951912512"
+        ]
+    },
+    {
+        "Target": "http://www.gyptone.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/user/GyptoneTV"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.aludecor.com",
+        "E-Mails": [
+            "info@aludecor.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/Aludecor",
+            "https://twitter.com/Aludecor",
+            "https://in.linkedin.com/company/aludecor-lamination-pvt-ltd-",
+            "https://www.instagram.com/aludecor/",
+            "https://www.youtube.com/user/aludecor",
+            "https://www.youtube.com/watch?v=pHpLFmTMB1o",
+            "https://www.instagram.com/aludecor/?hl=en"
+        ],
+        "Numbers": [
+            "18001020407",
+            "50050007030"
+        ]
+    },
+    {
+        "Target": "http://www.alstrongindia.com",
+        "E-Mails": [
+            "info@alstrongindia.com"
+        ],
+        "SocialMedia": [
+            "https://twitter.com/AlstrongEnterp1?s=08",
+            "https://facebook.com/AlstrongEnterprisesIndiaPrivateLimited",
+            "https://www.instagram.com/alstrongindia/?r=nametag",
+            "https://www.linkedin.com/in/alstrong-india-2987567a/"
+        ],
+        "Numbers": [
+            "2017300500500",
+            "18001023838"
+        ]
+    },
+    {
+        "Target": "http://www.aparnasystems.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.urbanshield.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/urbanshieldusa",
+            "http://twitter.com/urbanshieldusa",
+            "http://youtube.com/@urbanshield",
+            "http://instagram.com/urbanshieldusa"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.pestproindia.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.villeroy-boch.co.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.grohe.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/GROHEIndia/",
+            "https://twitter.com/grohe",
+            "https://www.youtube.com/grohe",
+            "http://www.pinterest.com/grohe"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.ikea.com/in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "1799036370"
+        ]
+    },
+    {
+        "Target": "http://www.stylespafurniture.com",
+        "E-Mails": [
+            "customercare@stylespafurniture.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/StyleSpa.WhereLifeLives/",
+            "https://www.instagram.com/stylespa.livesmart/"
+        ],
+        "Numbers": [
+            "18004253150",
+            "1045000627000",
+            "1127500676500",
+            "1289500773700",
+            "1005500502800",
+            "713500356800",
+            "1448500724300",
+            "971500485800",
+            "564500282300",
+            "551500297800",
+            "919000459500",
+            "585500292800"
+        ]
+    },
+    {
+        "Target": "http://www.furniturekraft.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://twitter.com/furniturekraft1",
+            "https://in.pinterest.com/furniturekraftinternationalpvt/",
+            "https://www.facebook.com/FurniturekraftOnline/",
+            "https://www.linkedin.com/company/furniturekraft-international-pvt-ltd-/",
+            "https://www.instagram.com/furniturekraftonline/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.spaceshome.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552"
+        ]
+    },
+    {
+        "Target": "http://www.kurlon.com",
+        "E-Mails": [
+            "customercare@kurlon.com"
+        ],
+        "SocialMedia": [
+            "https://twitter.com/KurlonLimited",
+            "https://www.facebook.com/Kurlon/",
+            "https://instagram.com/kurlon_limited?igshid=4xwv3yqj97mj",
+            "https://www.youtube.com/channel/UCxKBDZJcuTrpuvWZNuRpbIw"
+        ],
+        "Numbers": [
+            "8150000103"
+        ]
+    },
+    {
+        "Target": "http://www.wakefit.co",
+        "E-Mails": [
+            "partner@wakefit.co",
+            "media@wakefit.co"
+        ],
+        "SocialMedia": [
+            "https://www.instagram.com/wakefitco/",
+            "https://www.facebook.com/wakefitco/",
+            "https://twitter.com/WakefitCo/",
+            "https://www.linkedin.com/company/wakefitco/"
+        ],
+        "Numbers": [
+            "1001002023"
+        ]
+    },
+    {
+        "Target": "http://www.sundayrest.com",
+        "E-Mails": [
+            "hello@sundayrest.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/MySundayRest",
+            "https://instagram.com/mysundayrest",
+            "https://www.pinterest.com/MySundayRest/",
+            "https://twitter.com/sundaybeds",
+            "https://www.youtube.com/c/SundayRest"
+        ],
+        "Numbers": [
+            "08047494649"
+        ]
+    },
+    {
+        "Target": "http://www.sleepycat.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.instagram.com/sleepycat.in/",
+            "https://www.facebook.com/pg/sleepycat.in/",
+            "https://www.youtube.com/channel/UCAyZiLLNy-f6oGl4J6uQrWQ",
+            "https://twitter.com/SleepyCat_India"
+        ],
+        "Numbers": [
+            "1011003000045"
+        ]
+    },
+    {
+        "Target": "http://www.emma-sleep.in",
+        "E-Mails": [
+            "orders@emma-sleep.in",
+            "support@emma-sleep.in",
+            "support@emma-sleep.com",
+            "support@emma-sleep.in "
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/EmmaMattressIndia/",
+            "https://www.instagram.com/emma.mattress_india/",
+            "https://www.youtube.com/channel/UC2ogBAlPbtgYuVX__s4T0LQ"
+        ],
+        "Numbers": [
+            "919810441936"
+        ]
+    },
+    {
+        "Target": "http://www.flomattress.com",
+        "E-Mails": [
+            "support@flomattress.com"
+        ],
+        "SocialMedia": [
+            "https://www.youtube.com/watch?v=9zoCfIwTbjE",
+            "https://www.facebook.com/sleeponflo",
+            "https://www.instagram.com/flomattress/",
+            "https://twitter.com/flomattressin",
+            "https://www.linkedin.com/company/flo-mattress",
+            "https://www.youtube.com/channel/UCrOs5TJ3BtnsQBUNuLvmYOA"
+        ],
+        "Numbers": [
+            "917387887750",
+            "11011067839",
+            "918976712552"
+        ]
+    },
+    {
+        "Target": "http://www.springtek.in",
+        "E-Mails": [
+            "278@ashokafoam.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/springtekM/",
+            "https://twitter.com/SpringtekM",
+            "https://instagram.com/springtekmattress",
+            "https://www.youtube.com/channel/UCeD5N6p2bYjeqfLCc0D5L1g"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.porticoindia.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/AJIOlife",
+            "https://www.instagram.com/AJIOlife/",
+            "https://www.instagram.com/ajioluxe/",
+            "https://twitter.com/AJIOLife",
+            "https://www.pinterest.com/ajiolife/"
+        ],
+        "Numbers": [
+            "9996040100"
+        ]
+    },
+    {
+        "Target": "http://www.kurlon.com",
+        "E-Mails": [
+            "customercare@kurlon.com"
+        ],
+        "SocialMedia": [
+            "https://twitter.com/KurlonLimited",
+            "https://www.facebook.com/Kurlon/",
+            "https://instagram.com/kurlon_limited?igshid=4xwv3yqj97mj",
+            "https://www.youtube.com/channel/UCxKBDZJcuTrpuvWZNuRpbIw"
+        ],
+        "Numbers": [
+            "8150000103"
+        ]
+    },
+    {
+        "Target": "http://www.springfit.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.instagram.com/springfitsleep/",
+            "https://www.facebook.com/springfitmattressindia/",
+            "http://www.youtube.com/c/SpringfitMattressSleepSystems",
+            "https://twitter.com/springfitsleep",
+            "https://www.linkedin.com/company/springfitsleep"
+        ],
+        "Numbers": [
+            "918010161016",
+            "918447818418"
+        ]
+    },
+    {
+        "Target": "http://www.recron.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.amazon.in/solimo",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.amazon.in/gp/redirect.html/ref=footer_fb?location=http://www.facebook.com/AmazonIN&token=2075D5EAC7BB214089728E2183FD391706D41E94&6",
+            "https://www.amazon.in/gp/redirect.html/ref=footer_twitter?location=http://twitter.com/AmazonIN&token=A309DFBFCB1E37A808FF531934855DC817F130B6&6",
+            "https://www.amazon.in/gp/redirect.html?location=https://www.instagram.com/amazondotin&token=264882C912E9D005CB1D9B61F12E125D5DF9BFC7&source=standards"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.welspunindia.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/WelspunWorld/",
+            "https://www.instagram.com/welspungroup/",
+            "https://twitter.com/WelspunWorld",
+            "https://www.linkedin.com/company/welspunworld/",
+            "https://www.youtube.com/channel/UCn7pglwN1EiZWDL54vqdmWA"
+        ],
+        "Numbers": [
+            "912836661111",
+            "912836279010"
+        ]
+    },
+    {
+        "Target": "http://www.fabindia.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.saffronart.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Saffronart",
+            "https://www.instagram.com/saffronartindia/",
+            "https://www.pinterest.com/saffronart/",
+            "https://twitter.com/saffronart"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.carpetmantra.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.therugrepublic.in",
+        "E-Mails": [
+            "support@therugrepublic.in"
+        ],
+        "SocialMedia": [
+            "https://twitter.com/TheRugRepublic",
+            "https://www.facebook.com/TheRugRepublic",
+            "https://in.pinterest.com/the_rug_republic/",
+            "https://www.instagram.com/the_rug_republic/",
+            "https://www.youtube.com/watch?v=3FsWH61YewQ"
+        ],
+        "Numbers": [
+            "917617656777"
+        ]
+    },
+    {
+        "Target": "http://www.rugsandbeyond.com",
+        "E-Mails": [
+            "contact@rugsandbeyond.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/rugsandbeyond",
+            "https://www.twitter.com/rugsandbeyond",
+            "https://www.youtube.com/channel/UCn1305pw_TeENEYkGSgTS_A",
+            "https://www.instagram.com/rugsandbeyond",
+            "https://www.pinterest.com/rugsandbeyond/",
+            "https://twitter.com/rugsandbeyond",
+            "https://instagram.com/rugsandbeyond"
+        ],
+        "Numbers": [
+            "919818627555",
+            "50010002000",
+            "235757810810",
+            "5788171264",
+            "6699199298",
+            "5687168262",
+            "51091178278",
+            "51090177274",
+            "41073148221",
+            "51188181263",
+            "5878172233",
+            "4665137195",
+            "51191181277"
+        ]
+    },
+    {
+        "Target": "http://www.flipkart.com",
+        "E-Mails": [
+            "Purchases.oni@flipkart.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/flipkart",
+            "https://www.twitter.com/flipkart",
+            "https://www.youtube.com/flipkart"
+        ],
+        "Numbers": [
+            "04445614700"
+        ]
+    },
+    {
+        "Target": "http://www.axis.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/c/AxisTechnicalSupportVideos",
+            "http://www.youtube.com/axiscommunications",
+            "http://www.twitter.com/axisipvideo",
+            "http://www.facebook.com/axiscommunications",
+            "https://www.linkedin.com/company/axis-communications/?trk=fc_badge"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.boschsecurity.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/BoschSecurity",
+            "https://www.youtube.com/user/BoschSecurity",
+            "https://twitter.com/BoschSecurityUS",
+            "https://www.linkedin.com/company/bosch-security-systems"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.dahuasecurity.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://twitter.com/DahuaHQ",
+            "https://www.facebook.com/DahuaHQ/",
+            "https://www.youtube.com/user/DahuaTechnology",
+            "https://www.linkedin.com/company/2845844/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.boschsecurity.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/BoschSecurity",
+            "https://www.youtube.com/user/BoschSecurity",
+            "https://twitter.com/BoschSecurityUS",
+            "https://www.linkedin.com/company/bosch-security-systems"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.philips.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/user/philipsindia",
+            "https://twitter.com/PhilipsPR",
+            "https://www.facebook.com/Philips/",
+            "https://www.instagram.com/philips/"
+        ],
+        "Numbers": [
+            "1020304050"
+        ]
+    },
+    {
+        "Target": "http://www.syska.co.in",
+        "E-Mails": [
+            "support@syska.co.in ",
+            "media@syska.co.in"
+        ],
+        "SocialMedia": [
+            "https://instagram.com/syska.world",
+            "https://linkedin.com/company/syskaworld/",
+            "https://youtube.com/channel/UCkZXh-_kU_2FU2r8RzhWZRg/featured",
+            "https://twitter.com/SyskaWorld",
+            "https://facebook.com/SyskaWorld"
+        ],
+        "Numbers": [
+            "18001028787"
+        ]
+    },
+    {
+        "Target": "http://www.honeywellsmarthomes.com/in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/watch?v=zXFghuFS-1g"
+        ],
+        "Numbers": [
+            "082023194136",
+            "082023192751",
+            "082023191945",
+            "082023191716",
+            "082023191519",
+            "082023191014",
+            "082023190117",
+            "082023190014",
+            "082023185735",
+            "082023184615",
+            "082023184332",
+            "082023183631",
+            "082023183255",
+            "082023182411",
+            "082023182311",
+            "082023180633",
+            "082023174509",
+            "082023172228",
+            "082023170916",
+            "092023060631",
+            "092023060346",
+            "092023060256",
+            "092023060205",
+            "092023055927",
+            "092023055605",
+            "092023055514",
+            "092023055152",
+            "092023055104",
+            "092023054820",
+            "092023054543",
+            "092023054446",
+            "092023054351",
+            "092023054159",
+            "092023054109",
+            "092023053643",
+            "092023053555",
+            "092023052854",
+            "092023052755",
+            "092023052706",
+            "092023052610",
+            "092023052251",
+            "082023195915",
+            "082023195739",
+            "082023195649",
+            "082023195401",
+            "082023193958",
+            "082023193909",
+            "082023192932",
+            "082023192508",
+            "082023192226",
+            "082023192034",
+            "082023191619",
+            "082023191334",
+            "082023190925",
+            "1934193583",
+            "082023190357",
+            "082023184843",
+            "082023184706",
+            "1000451000",
+            "082023184244",
+            "082023184047",
+            "3020021701925",
+            "082023183719",
+            "2149610115780",
+            "082023183442",
+            "082023182838",
+            "082023181948",
+            "082023181710",
+            "082023180721",
+            "082023180454",
+            "082023180223",
+            "082023180133",
+            "082023175949",
+            "082023174830",
+            "082023174130",
+            "082023173434",
+            "082023172501",
+            "082023172046",
+            "082023171955",
+            "082023171906",
+            "082023170130",
+            "082023165611",
+            "082023163317",
+            "082023162802",
+            "082023162621",
+            "082023161919",
+            "082023161829",
+            "082023161739",
+            "082023161222",
+            "082023161035",
+            "082023160945",
+            "082023160052",
+            "082023155857",
+            "082023154959",
+            "082023154214",
+            "082023154034",
+            "082023153757",
+            "082023153102",
+            "082023152232",
+            "082023152143",
+            "082023150432",
+            "082023150254",
+            "082023145848",
+            "082023144917",
+            "082023144827",
+            "082023143256",
+            "082023142935",
+            "082023142838",
+            "082023141727",
+            "082023141408",
+            "082023140942",
+            "082023140437",
+            "082023134612"
+        ]
+    },
+    {
+        "Target": "http://www.eurekaforbes.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/EurekaForbes",
+            "https://www.linkedin.com/company/eureka-forbes-ltd?trk=company_logo",
+            "https://twitter.com/EurekaForbes",
+            "https://www.youtube.com/user/eurekaforbesindia"
+        ],
+        "Numbers": [
+            "18602661177"
+        ]
+    },
+    {
+        "Target": "http://www.bosch.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/BoschIndia",
+            "https://twitter.com/boschindia/",
+            "https://www.linkedin.com/company/bosch-india",
+            "https://www.youtube.com/c/BoschIndiaOfficial",
+            "https://instagram.com/bosch.india?igshid=1p7x66c61a5js"
+        ],
+        "Numbers": [
+            "1001922100",
+            "918067521111",
+            "918022992181"
+        ]
+    },
+    {
+        "Target": "http://www.nerolac.com",
+        "E-Mails": [
+            "complaints@nerolac.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/NerolacPaints.India/",
+            "https://twitter.com/Nerolac_Paints",
+            "https://www.youtube.com/user/NerolacPaints",
+            "https://www.instagram.com/nerolacpaints/",
+            "https://www.linkedin.com/company/nerolac-paints-ltd/"
+        ],
+        "Numbers": [
+            "18002092092",
+            "18002665566",
+            "18002101214"
+        ]
+    },
+    {
+        "Target": "http://www.jotun.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.kamdhenupaints.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.skipperhomefashions.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.vistafurnishings.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "18002655462",
+            "6818002655462"
+        ]
+    },
+    {
+        "Target": "http://duroplast.org",
+        "E-Mails": [
+            "mail@duroplast.in",
+            "mail@duroplast.org"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/DuroplastIndia",
+            "https://www.instagram.com/duroplast_india/",
+            "https://in.linkedin.com/company/duroplast-extrusion-pvt-ltd-"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://rehau.com/in-en",
+        "E-Mails": [
+            "infoindia@rehau.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/REHAUIndia/",
+            "https://twitter.com/REHAUINDIA",
+            "https://www.linkedin.com/company/rehau-india",
+            "https://www.instagram.com/rehau.india/",
+            "https://www.youtube.com/channel/UCukGuiMA6o3KvxAOVLq-BZA"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://durian.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://in.pinterest.com/durianfurniture/",
+            "https://www.instagram.com/durianforhome/",
+            "https://in.linkedin.com/company/durian-industries-ltd",
+            "https://www.facebook.com/durianforhome/",
+            "https://www.youtube.com/channel/UCaKgoZErVcLg2pzjQ3Ax8XQ"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.welltechsystems.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/welltechsystems",
+            "https://www.youtube.com/c/welltechsystemshydereabad",
+            "https://twitter.com/welltechsystems"
+        ],
+        "Numbers": [
+            "7207509509"
+        ]
+    },
+    {
+        "Target": "http://www.deceuninck.in",
+        "E-Mails": [
+            "info@deceuninck.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/deceuninck.ind",
+            "https://twitter.com/Deceuninck_In",
+            "https://www.linkedin.com/company/18063532/",
+            "https://www.instagram.com/deceuninckindia/",
+            "https://www.youtube.com/channel/UC7QDKvYTHzRDZWoSsIcPWHQ"
+        ],
+        "Numbers": [
+            "3157560008",
+            "919384667325",
+            "917358413331",
+            "918754864440"
+        ]
+    },
+    {
+        "Target": "http://www.koemmerling.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/profineGroup/",
+            "https://twitter.com/profinegroup",
+            "https://www.youtube.com/user/profineMovies",
+            "https://www.instagram.com/profinegroup/",
+            "https://www.linkedin.com/company/profine-group"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.lghausys.com/in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.encraft.in",
+        "E-Mails": [
+            "info@encraft.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/encraft.upvc/",
+            "https://instagram.com/encraftindia?igshid=ookcmsbf0bb6",
+            "https://www.linkedin.com/company/encraft-india-pvt-ltd",
+            "https://www.youtube.com/channel/UCA7W4QN1zGRMXBWnlwRJUmw/videos"
+        ],
+        "Numbers": [
+            "01140922210"
+        ]
+    },
+    {
+        "Target": "http://www.windowmagicindia.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/watch?v=tjBUfX5teYo",
+            "https://www.youtube.com/watch?v=0_8C4i40lPk",
+            "https://www.youtube.com/watch?v=Dh0ycVu1VHo",
+            "https://www.youtube.com/watch?v=z0g7B4y8sU4&t=1s",
+            "https://www.youtube.com/watch?v=qLZbB75272Q",
+            "https://www.youtube.com/watch?v=QJsv7cfVqnU",
+            "https://www.youtube.com/watch?v=PLo-Y6o7Z20",
+            "https://www.youtube.com/watch?v=25yljEy1ZQw",
+            "https://www.youtube.com/watch?v=Jq1mDrOXKs0&t=13s",
+            "https://www.youtube.com/watch?v=JVoqcafu8so&t=1s",
+            "https://www.youtube.com/watch?v=loGAKJaW2uA&t=23s"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.rehau.com/in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/rehaugroup",
+            "http://twitter.com/REHAU_Group",
+            "https://www.instagram.com/rehau.global",
+            "http://www.linkedin.com/company/rehau",
+            "http://www.youtube.com/rehautv"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://startrackwindows.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://geetaaluminium.com",
+        "E-Mails": [
+            "enquiry@geetaaluminium.com",
+            "info@geetaaluminium.com",
+            " enquiry@geetaaluminium.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/geetaaluminium/",
+            "https://www.instagram.com/geetaaluminium/?hl=en",
+            "https://www.linkedin.com/company/geeta-aluminium-company-pvt--ltd-/?originalSubdomain=in",
+            "https://www.youtube.com/@GeetaGroup"
+        ],
+        "Numbers": [
+            "917227890101",
+            "919879955111",
+            "154551562125",
+            "918879448298",
+            "1311400004",
+            "919745654400",
+            "08322860245",
+            "919589753708",
+            "917230073966",
+            "3519415110",
+            "132535416012",
+            "1412700091",
+            "918296119577",
+            "2052110018",
+            "5774201301",
+            "919999297697",
+            "919434281641",
+            "919860350552",
+            "919168425679",
+            "919722222794",
+            "919933025959",
+            "919327919430",
+            "9920156890022",
+            "919920156890"
+        ]
+    },
+    {
+        "Target": "http://weatherseal.com",
+        "E-Mails": [
+            "sales@weatherseal.in"
+        ],
+        "SocialMedia": [
+            "https://twitter.com/weathersealin",
+            "https://www.facebook.com/weathersealindia/?ref=hl",
+            "https://in.linkedin.com/company/weatherseal.in",
+            "https://www.youtube.com/watch?v=i99qCR1-Slc"
+        ],
+        "Numbers": [
+            "917676519999"
+        ]
+    },
+    {
+        "Target": "http://www.mi.com/in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/XiaomiIndia/",
+            "https://twitter.com/XiaomiIndia",
+            "https://www.instagram.com/xiaomiindia/"
+        ],
+        "Numbers": [
+            "1251499921199"
+        ]
+    },
+    {
+        "Target": "http://www.mi.com/in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/XiaomiIndia/",
+            "https://twitter.com/XiaomiIndia",
+            "https://www.instagram.com/xiaomiindia/"
+        ],
+        "Numbers": [
+            "1251499921199"
+        ]
+    },
+    {
+        "Target": "http://www.nipponpaint.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/NipponPaintIndia/",
+            "https://twitter.com/nipponindia",
+            "https://www.linkedin.com/company/nippon-paint-india/",
+            "https://www.youtube.com/channel/UCLfMLxg95k_nz1Av8gVjmgw",
+            "https://www.instagram.com/nipponpaintindia/"
+        ],
+        "Numbers": [
+            "8749087490"
+        ]
+    },
+    {
+        "Target": "http://www.firetechindia.co.in",
+        "E-Mails": [
+            "sales@firetechindia.co.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/FireTech.EBS"
+        ],
+        "Numbers": [
+            "9650698045",
+            "912235587762"
+        ]
+    },
+    {
+        "Target": "http://www.safetyfirstsolutions.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://aparnavenster.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/AparnaVenster",
+            "https://twitter.com/AparnaVenster",
+            "https://www.linkedin.com/company/aparna-venster-upvc/",
+            "https://www.instagram.com/aparnavenster/?hl=en",
+            "https://www.youtube.com/channel/UCWA8kUcZa0Z9fkdk6wqDAlg"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.armstrongceilings.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.aglasiangranito.com",
+        "E-Mails": [
+            "info@aglasiangranito.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/agltiles",
+            "https://www.youtube.com/user/agltilesworld/videos",
+            "https://www.instagram.com/agltiles/",
+            "https://www.instagram.com/p/Cs009wlvbyr/",
+            "https://www.instagram.com/p/CsyQLBUIMcu/",
+            "https://www.instagram.com/p/CsvrYHQqkXy/",
+            "https://www.instagram.com/p/Csu7UAwISfQ/",
+            "https://www.instagram.com/p/CstGso2IqhU/",
+            "https://www.instagram.com/p/Csn8_kaN3n4/",
+            "https://www.instagram.com/p/CsnTmkoutI6/",
+            "https://twitter.com/AGLTILESWORLD",
+            "https://www.linkedin.com/company/agltiles/"
+        ],
+        "Numbers": [
+            "917966125500",
+            "917966125698",
+            "18001233455"
+        ]
+    },
+    {
+        "Target": "http://www.asianpaints.com",
+        "E-Mails": [
+            "customercare@asianpaints.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/asianpaints",
+            "https://twitter.com/asianpaints",
+            "https://in.pinterest.com/asianpaints/",
+            "https://www.youtube.com/user/AsianPaintsIndia",
+            "https://www.instagram.com/asianpaints/"
+        ],
+        "Numbers": [
+            "18002095678"
+        ]
+    },
+    {
+        "Target": "http://www.bentchair.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.bergerpaints.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/BergerPaintsIndia",
+            "https://twitter.com/BergerPaintsInd",
+            "https://www.youtube.com/c/bergerpaints",
+            "https://www.linkedin.com/company/bergerpaintsindia",
+            "https://www.pinterest.com/bergerpaints/",
+            "https://www.instagram.com/bergerPaintsIndia/"
+        ],
+        "Numbers": [
+            "18001036030"
+        ]
+    },
+    {
+        "Target": "http://www.bombaydyeing.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/BombayDyeing/",
+            "https://twitter.com/BombayDyeing_In",
+            "https://in.linkedin.com/company/bombay-dyeing",
+            "https://www.instagram.com/bombaydyeing_in/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.centuryply.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/CenturyPlyOfficial",
+            "https://twitter.com/CenturyPlyIndia",
+            "https://www.youtube.com/user/CENTURYPLY1986",
+            "https://www.instagram.com/centuryply/",
+            "https://www.linkedin.com/company/century-plyboards-i-limited"
+        ],
+        "Numbers": [
+            "18005722122",
+            "3339403950"
+        ]
+    },
+    {
+        "Target": "http://www.cera-india.com",
+        "E-Mails": [
+            "ceracare@cera-india.com"
+        ],
+        "SocialMedia": [
+            "https://www.instagram.com/reel/CvtczDDPoaH/",
+            "https://www.instagram.com/reel/CvOmYGMO2VS/",
+            "https://www.instagram.com/reel/CvG1Krgt5oB/",
+            "https://www.instagram.com/reel/Cu8j8fAJvL6/",
+            "https://www.instagram.com/reel/CulZdmztCxo/",
+            "https://www.instagram.com/reel/CuV6_vmxSUG/",
+            "https://www.instagram.com/reel/Ct-7Ya3st-H/",
+            "https://www.instagram.com/reel/CtnkKHXsgCx/",
+            "https://www.instagram.com/reel/Ctia0ddLNG0/",
+            "https://www.instagram.com/reel/CtdTBd5uKso/",
+            "https://www.instagram.com/reel/CtWgGXrtsc6/",
+            "https://www.instagram.com/reel/CtN0jxeuD6F/",
+            "https://www.facebook.com/Cera.India",
+            "https://twitter.com/cera_india",
+            "https://www.instagram.com/ceraindia/",
+            "https://www.youtube.com/user/CERAINDIA2012"
+        ],
+        "Numbers": [
+            "18002585500"
+        ]
+    },
+    {
+        "Target": "http://www.aquaease.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.aquamaster.in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.cpplusworld.com",
+        "E-Mails": [
+            "support@cpplusworld.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/cpplusworld/",
+            "https://twitter.com/cpplusglobal",
+            "https://www.linkedin.com/company/cp-plus-gmbh-&-co-kg",
+            "https://www.instagram.com/cpplusworld/",
+            "https://www.youtube.com/channel/UCitM8zALS6Zb750LE_fx-Pg"
+        ],
+        "Numbers": [
+            "72723120000",
+            "62923120000",
+            "61623120000",
+            "6723120000",
+            "6623120000",
+            "52723120000",
+            "52423120000",
+            "51523120000",
+            "918800952952"
+        ]
+    },
+    {
+        "Target": "http://www.crompton.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.instagram.com/crompton_india",
+            "https://www.youtube.com/channel/UCeywFNDQrMfQ5XrcjBQIU2g",
+            "https://www.facebook.com/Crompton.India/",
+            "https://twitter.com/Crompton_India"
+        ],
+        "Numbers": [
+            "18004190505",
+            "912261678499"
+        ]
+    },
+    {
+        "Target": "http://www.dahuasecurity.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://twitter.com/DahuaHQ",
+            "https://www.facebook.com/DahuaHQ/",
+            "https://www.youtube.com/user/DahuaTechnology",
+            "https://www.linkedin.com/company/2845844/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.ddecor.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Ddecor",
+            "https://www.instagram.com/ddecordiaries/",
+            "https://in.pinterest.com/DDecorDiaries/",
+            "https://www.youtube.com/user/DDecorHomes",
+            "https://in.linkedin.com/company/d%27decor-home-fabrics",
+            "https://twitter.com/DDecorDiaries"
+        ],
+        "Numbers": [
+            "18002679008"
+        ]
+    },
+    {
+        "Target": "http://dormakaba.com/in-en",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/watch?v=8A-Zz2tYoIo",
+            "https://www.facebook.com/dormakabaindia/",
+            "https://twitter.com/dormakaba",
+            "https://www.youtube.com/channel/UCoiGIwaHPigPttRi_KsGhyA",
+            "http://www.linkedin.com/company/dormakaba-india",
+            "https://www.instagram.com/dormakaba/"
+        ],
+        "Numbers": [
+            "000047320215"
+        ]
+    },
+    {
+        "Target": "http://www.dulux.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Dulux.In/",
+            "https://www.youtube.com/user/duluxindia",
+            "https://www.instagram.com/dulux.india"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.duravit.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://www.facebook.com/duravit",
+            "https://www.instagram.com/duravit",
+            "http://twitter.com/duravit",
+            "https://www.pinterest.com/duravit",
+            "https://de.linkedin.com/company/duravit-ag",
+            "https://www.youtube.com/duravitag"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.duroflexworld.com",
+        "E-Mails": [
+            "support@duroflexworld.com"
+        ],
+        "SocialMedia": [
+            "https://www.instagram.com/duroflexworld/",
+            "https://www.facebook.com/Duroflexworld/",
+            "https://twitter.com/Duroflex_world",
+            "https://in.linkedin.com/company/duroflex",
+            "https://www.youtube.com/channel/UCoWZ_AJi61qVjM-GSmVt5jQ"
+        ],
+        "Numbers": [
+            "18001085008",
+            "3808688011",
+            "08095119977"
+        ]
+    },
+    {
+        "Target": "http://www.ebco.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/embed/mQotwV3PBNU?hd=1&wmode=opaque&controls=1&showinfo=0&autoplay=1",
+            "https://www.youtube.com/embed/HNqQbnvt-R4?hd=1&wmode=opaque&controls=1&showinfo=0&autoplay=1",
+            "https://www.youtube.com/embed/t5GEDWOpS_c?hd=1&wmode=opaque&controls=1&showinfo=0&autoplay=1",
+            "https://www.youtube.com/embed/ltNKCs3O-ys?hd=1&wmode=opaque&controls=1&showinfo=0&autoplay=1",
+            "https://www.facebook.com/EbcoSolutions",
+            "https://twitter.com/ebcohardware",
+            "https://www.instagram.com/ebcosolutions/",
+            "https://www.linkedin.com/company/3866958?trk=mini-profile-title",
+            "https://www.youtube.com/channel/UCoSJ62LoWQkLbz27erlsgBw/videos"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.ellementry.com",
+        "E-Mails": [
+            "corporate@ellementry.com",
+            "international@ellementry.com",
+            "care@ellementry.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/ellementryhome",
+            "https://www.instagram.com/ellementryhome",
+            "https://www.pinterest.com/ellementryhome",
+            "https://www.youtube.com/channel/UCm3hKbkmt07VESqg6GbgoWQ"
+        ],
+        "Numbers": [
+            "3890109891",
+            "10990104491",
+            "4990104491",
+            "49901021071",
+            "11901032475",
+            "27501021071",
+            "18501021215",
+            "1350102475",
+            "1450401755",
+            "1950101194",
+            "1990401161",
+            "1290101090",
+            "1750401006"
+        ]
+    },
+    {
+        "Target": "http://www.everestind.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/channel/UCWI4GZQpEwY6mkvCZhSCVDg",
+            "https://www.instagram.com/everest_ind/",
+            "https://www.linkedin.com/company/everest-industries-limited/"
+        ],
+        "Numbers": [
+            "18004191991",
+            "02269772000"
+        ]
+    },
+    {
+        "Target": "http://fabuliv.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/fabuliv/",
+            "https://twitter.com/fabuliv",
+            "https://www.instagram.com/fabuliv_official/",
+            "https://in.pinterest.com/fabuliv/"
+        ],
+        "Numbers": [
+            "917827133144"
+        ]
+    },
+    {
+        "Target": "http://featherlitefurniture.com",
+        "E-Mails": [
+            "your@email"
+        ],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.fenesta.com",
+        "E-Mails": [
+            "response@fenesta.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/fenestawindows",
+            "https://twitter.com/fenestawindows",
+            "https://www.linkedin.com/company/fenesta-building-systems",
+            "https://www.youtube.com/user/fenestahome",
+            "https://www.instagram.com/fenestawindows/"
+        ],
+        "Numbers": [
+            "18001029880",
+            "8232122001",
+            "3293122560038"
+        ]
+    },
+    {
+        "Target": "http://www.foslighting.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/FosLighting",
+            "https://in.pinterest.com/foslighting0364/",
+            "https://www.instagram.com/fos_lighting/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.godrejinterio.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.godrejsecure.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/channel/UC_jDQGyDepWyD6TGWz2z3EA",
+            "https://www.facebook.com/godrejandboyce",
+            "https://www.linkedin.com/company/godrej/",
+            "https://twitter.com/godrejandboyce",
+            "https://www.instagram.com/godrejandboyce/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.greenlam.com",
+        "E-Mails": [
+            "info@greenlam.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/GreenlamLaminate",
+            "https://twitter.com/Greenlam01",
+            "https://instagram.com/greenlam_laminates",
+            "https://in.linkedin.com/company/greenlam-industries-ltd",
+            "https://www.youtube.com/c/GreenlamIndustries"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://hafeleindia.com",
+        "E-Mails": [
+            "customercare@hafeleindia.com?subject=Inquiry H\u00e4fele [9/08/2023 15:51:46]"
+        ],
+        "SocialMedia": [
+            "https://www.youtube.com/watch?v=_mVhLne0YgI",
+            "https://www.youtube.com/Hafele%20Ind",
+            "https://www.youtube.com/watch?v=WT65irkab5M",
+            "https://www.youtube.com/watch?v=q9DDtMx7NMc",
+            "https://www.youtube.com/watch?v=j_WhlglieT0",
+            "https://www.facebook.com/hafeleindia",
+            "https://www.instagram.com/hafele_india/",
+            "https://twitter.com/hafeleindia",
+            "https://www.youtube.com/user/HaefeleIN1",
+            "https://www.linkedin.com/company/hafele-india"
+        ],
+        "Numbers": [
+            "9118002666667"
+        ]
+    },
+    {
+        "Target": "http://www.hafeleindia.com",
+        "E-Mails": [
+            "customercare@hafeleindia.com?subject=Inquiry H\u00e4fele [9/08/2023 15:51:46]"
+        ],
+        "SocialMedia": [
+            "https://www.youtube.com/watch?v=_mVhLne0YgI",
+            "https://www.youtube.com/Hafele%20Ind",
+            "https://www.youtube.com/watch?v=WT65irkab5M",
+            "https://www.youtube.com/watch?v=q9DDtMx7NMc",
+            "https://www.youtube.com/watch?v=j_WhlglieT0",
+            "https://www.facebook.com/hafeleindia",
+            "https://www.instagram.com/hafele_india/",
+            "https://twitter.com/hafeleindia",
+            "https://www.youtube.com/user/HaefeleIN1",
+            "https://www.linkedin.com/company/hafele-india"
+        ],
+        "Numbers": [
+            "9118002666667"
+        ]
+    },
+    {
+        "Target": "http://hettich.com/in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.hikvision.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.homesake.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Homesake.in",
+            "https://twitter.com/Homesake_India",
+            "https://instagram.com/homesake_india",
+            "https://www.pinterest.com/Homesake/"
+        ],
+        "Numbers": [
+            "01204206972"
+        ]
+    },
+    {
+        "Target": "http://www.ikea.com/in",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "1799036370"
+        ]
+    },
+    {
+        "Target": "http://www.indigopaints.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/indigopaints",
+            "https://www.twitter.com/indigopaints",
+            "https://www.instagram.com/indigopaints/",
+            "https://www.youtube.com/user/indigopaints",
+            "https://www.linkedin.com/company/indigo-paints-pvt-ltd",
+            "https://www.youtube.com/watch?v=QJ-g9YKSnIQ&width=900&height=480",
+            "https://www.youtube.com/watch?v=aVSmnWzlKuc&width=900&height=480",
+            "https://www.youtube.com/watch?v=yMSBCowG_S8&width=900&height=480",
+            "https://www.youtube.com/watch?v=qfFhkKH0yoQ&width=900&height=480",
+            "https://www.youtube.com/watch?v=C8tYMrAU96M&width=900&height=600",
+            "https://www.youtube.com/watch?v=OXE38ShST-4&width=900&height=600",
+            "https://www.youtube.com/watch?v=EP0AMxk2XDo&width=900&height=480",
+            "https://www.youtube.com/watch?v=1hZa7owwDE0&width=900&height=480",
+            "https://www.youtube.com/watch?v=F5MPtb1_cZM&width=900&height=480",
+            "https://www.youtube.com/watch?v=C9QncG0ksiU&width=900&height=480",
+            "https://www.facebook.com/indigopaints/",
+            "https://www.youtube.com/user/indigopaints/"
+        ],
+        "Numbers": [
+            "111111111111"
+        ]
+    },
+    {
+        "Target": "http://www.jaquar.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/JaquarIndia",
+            "https://www.instagram.com/jaquarindia/",
+            "https://www.youtube.com/user/jaquarindia",
+            "https://www.linkedin.com/company/jaquar-&-company-private-limited/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.jindalaluminium.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.kajariaceramics.com",
+        "E-Mails": [
+            "info@kajariaceramics.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/KajariaCeramicsLimited/",
+            "https://www.instagram.com/kajaria.ceramics/",
+            "https://twitter.com/kajariaceramic",
+            "https://in.linkedin.com/company/kajaria-ceramics-ltd-",
+            "https://www.youtube.com/channel/UCRpn5FtFfydCTpc-3M61zgA"
+        ],
+        "Numbers": [
+            "1800309309"
+        ]
+    },
+    {
+        "Target": "http://www.kohler.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/channel/UCR8K8sRDxDlOMqkoglyk-pA",
+            "https://www.instagram.com/kohler_india/?hl=en",
+            "https://www.facebook.com/India.Kohler",
+            "https://twitter.com/KOHLER_INDIA?ref_src=twsrc",
+            "https://in.linkedin.com/showcase/kohler-india",
+            "https://www.instagram.com/kohler_india/"
+        ],
+        "Numbers": [
+            "18001032244"
+        ]
+    },
+    {
+        "Target": "http://www.legrand.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Legrand.In/",
+            "https://twitter.com/Legrand_IN",
+            "https://www.youtube.com/channel/UCcHFdOJRHTSmEVUEv9UA5Wg/feed",
+            "https://www.linkedin.com/company/793562",
+            "https://www.instagram.com/legrand_in/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.livinblinds.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/livinblindscom",
+            "https://twitter.com/livinblind",
+            "https://www.youtube.com/channel/UCtDkKdO4zHNTl4bCHptxInw",
+            "https://www.instagram.com/livinblinds/",
+            "https://in.pinterest.com/livinblind/",
+            "https://www.instagram.com/livinblinds"
+        ],
+        "Numbers": [
+            "9999123605",
+            "15000200000"
+        ]
+    },
+    {
+        "Target": "http://www.maspar.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/masparhomefashion/?_ga=2.182356000.668471372.1680604907-242540242.1680350740",
+            "https://twitter.com/masparhome?lang=en&_ga=2.182356000.668471372.1680604907-242540242.1680350740",
+            "https://www.instagram.com/masparhomefashion/?_ga=2.179867555.668471372.1680604907-242540242.1680350740"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.merinolaminates.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/merino.laminates?fref=ts",
+            "https://www.instagram.com/merinoindia",
+            "https://twitter.com/MerinoIndia",
+            "https://www.youtube.com/user/merinolaminates",
+            "https://www.linkedin.com/company/1606217/",
+            "https://www.facebook.com/merino.laminates/",
+            "https://www.instagram.com/merinoindia/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.naturesnest.in",
+        "E-Mails": [
+            "reservations@fazlaninaturesnest.com",
+            "sales@fazlaninaturesnest.com",
+            "%20%20sales@fazlaninaturesnest.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/FazlaniNaturesResort",
+            "https://www.youtube.com/c/fazlaninaturesnest",
+            "https://www.linkedin.com/company/fazlani-natures-nest/",
+            "https://www.instagram.com/fazlaninaturesnest/",
+            "https://www.youtube.com/channel/UCe2cp6nFYNZDhymA7bqjzDA",
+            "https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGucEP_wsdX5QAAAYOxzU9w5xgMQRSIk50xl_BeDWJ5RCxaOqnBfm0mXeVzbi8fHC-qz7RC_T_n_sbBYIx7dLD8a-uN-4AYKo_rVLBtUmcCWkFGFQvRULR4xACUXyBCkA-oB4k=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Ffazlani-natures-nest"
+        ],
+        "Numbers": [
+            "912266300000",
+            "7700070070",
+            "917700070070"
+        ]
+    },
+    {
+        "Target": "http://www.nilkamal.com",
+        "E-Mails": [
+            "marketing@nilkamal.com"
+        ],
+        "SocialMedia": [
+            "https://twitter.com/nilkamal_ltd",
+            "https://www.linkedin.com/company-beta/455740/?pathWildcard=455740"
+        ],
+        "Numbers": [
+            "18001219115",
+            "201718201718",
+            "201617201617",
+            "201516201516",
+            "201415201415"
+        ]
+    },
+    {
+        "Target": "http://www.nitcotiles.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": [
+            "13038930552"
+        ]
+    },
+    {
+        "Target": "http://orangetree.co.in",
+        "E-Mails": [
+            "care@orangetree.in",
+            "projects@orangetree.in"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/OrangeTreeHomes",
+            "https://www.instagram.com/orangetreehomes",
+            "https://in.pinterest.com/orangetreehome/",
+            "https://youtube.com/channel/UCNjcJhvwOKTsO9vSwyO5o6w"
+        ],
+        "Numbers": [
+            "919001190790"
+        ]
+    },
+    {
+        "Target": "http://www.osram.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/amsOSRAM",
+            "https://twitter.com/amsOSRAM",
+            "https://www.youtube.com/c/amsOSRAMofficial",
+            "https://www.linkedin.com/company/ams-osram/",
+            "https://www.instagram.com/amsosram/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://ozone-india.com",
+        "E-Mails": [
+            "customercare@ozone-india.com",
+            "customercare@ozone-india.com?Subject=Mail from Ozone website"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/HardwareOzone/",
+            "https://twitter.com/OzoneGroupIndia",
+            "https://www.instagram.com/hardwareozone/"
+        ],
+        "Numbers": [
+            "919310012300"
+        ]
+    },
+    {
+        "Target": "http://www.panasonic.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/panasonicindia",
+            "https://twitter.com/PanasonicIndia",
+            "http://www.youtube.com/user/panasonicin",
+            "https://www.instagram.com/panasonic_india/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.panasonic.com/in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/panasonicindia",
+            "https://twitter.com/PanasonicIndia",
+            "http://www.youtube.com/user/panasonicin",
+            "https://www.instagram.com/panasonic_india/"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.parryware.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/ParrywareIndia/",
+            "https://www.instagram.com/parryware_india/",
+            "https://www.youtube.com/channel/UCQDk9OtdNFlqqvYT5zd_f4g",
+            "https://www.linkedin.com/company/4794227/"
+        ],
+        "Numbers": [
+            "7301274274"
+        ]
+    },
+    {
+        "Target": "http://www.pepsindia.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.philips.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.youtube.com/user/philipsindia",
+            "https://twitter.com/PhilipsPR",
+            "https://www.facebook.com/Philips/",
+            "https://www.instagram.com/philips/"
+        ],
+        "Numbers": [
+            "1020304050"
+        ]
+    },
+    {
+        "Target": "http://www.lighting.philips.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://twitter.com/Philips_lights",
+            "https://www.facebook.com/PhilipsLighting/",
+            "https://www.youtube.com/user/PhilipsLighting",
+            "https://www.linkedin.com/company/signifycompany/"
+        ],
+        "Numbers": [
+            "0008000507777"
+        ]
+    },
+    {
+        "Target": "http://www.porticoindia.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/AJIOlife",
+            "https://www.instagram.com/AJIOlife/",
+            "https://www.instagram.com/ajioluxe/",
+            "https://twitter.com/AJIOLife",
+            "https://www.pinterest.com/ajiolife/"
+        ],
+        "Numbers": [
+            "9996040100"
+        ]
+    },
+    {
+        "Target": "http://www.raymondhome.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.reynaers.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/ReynaersAluminium",
+            "https://instagram.com/reynaersalu",
+            "https://www.linkedin.com/company/reynaers-aluminium",
+            "https://www.youtube.com/user/ReynaersAluminium"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.roca.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.pinterest.com/rocalife",
+            "https://www.instagram.com/roca_india/",
+            "https://www.facebook.com/RocaIndiaBathrooms",
+            "https://www.youtube.com/roca"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.gyproc.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/Gyprocindia",
+            "https://twitter.com/Gyprocindia",
+            "https://www.linkedin.com/company/gyproc-india?trk=tyah&trkInfo=idx:1-1-1,tarId:1425316490643,tas:gyproc+india",
+            "https://www.youtube.com/user/Gyprocindia",
+            "https://in.pinterest.com/gyprocindia/",
+            "https://www.instagram.com/gyproc_india/?igshid=lmbb3nhktqyz",
+            "https://www.youtube.com/watch?v=PWv2GieKC_8"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.samsung.com/in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "http://www.samsung.com/in//www.facebook.com/SamsungIndia",
+            "http://www.samsung.com/in//twitter.com/samsungindia",
+            "http://www.samsung.com/in//www.instagram.com/samsungindia/",
+            "http://www.samsung.com/in//www.youtube.com/SamsungMobileIndia",
+            "http://www.samsung.com/in//www.linkedin.com/company/samsung-india"
+        ],
+        "Numbers": [
+            "38115406216",
+            "3302133784149",
+            "3454526999",
+            "1385569990",
+            "108436030990",
+            "13999925000",
+            "7799922000"
+        ]
+    },
+    {
+        "Target": "http://www.shalimarpaints.com",
+        "E-Mails": [
+            "feedback@shalimarpaints.com.",
+            "feedback@shalimarpaints.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/ShalimarPaints",
+            "https://www.instagram.com/shalimarpaintsltd/",
+            "https://twitter.com/ShalimarPaints_",
+            "http://www.linkedin.com/company/shalimar-paints",
+            "https://www.youtube.com/user/shalimarpaintsltd"
+        ],
+        "Numbers": [
+            "18001036509",
+            "1600803020"
+        ]
+    },
+    {
+        "Target": "http://www.sony.co.in",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/SonyIndia",
+            "https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.sony.co.in%2Felectronics%2Ftelevisions%2Fw660g-w665g-w667g-series&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text=Explore%20the%20latest%20products%20and%20technologies%20from%20www.sony.co.in&url=www.sony.co.in",
+            "https://twitter.com/sony_india",
+            "https://instagram.com/sonyindiaofficial",
+            "https://www.youtube.com/@sonyindia"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.spaces.in",
+        "E-Mails": [
+            "care@spaces.in"
+        ],
+        "SocialMedia": [
+            "https://www.instagram.com/spaces_india/",
+            "https://www.facebook.com/SpacesInd/",
+            "https://www.youtube.com/@SPACESIndia"
+        ],
+        "Numbers": [
+            "180300300500",
+            "180500300500",
+            "1000300500",
+            "20200110351",
+            "1963505000",
+            "9001121005000",
+            "2005066000",
+            "9991002012",
+            "2742743299",
+            "1602305400",
+            "1002742742599",
+            "2242706999",
+            "100152224999",
+            "2742742999",
+            "2742743999"
+        ]
+    },
+    {
+        "Target": "http://www.spacewood.in",
+        "E-Mails": [
+            "marketing@spacewood.in",
+            "service@spacewood.in"
+        ],
+        "SocialMedia": [
+            "https://business.facebook.com/SpacewoodIndia",
+            "https://instagram.com/spacewoodfurnishers?utm_medium=copy_link",
+            "https://www.linkedin.com/company/spacewood-furnishers-pvt-ltd",
+            "https://youtube.com/channel/UCzE2q9TGTPimxv85G7bWFEg"
+        ],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.surya.co.in",
+        "E-Mails": [
+            "consumercare@surya.in"
+        ],
+        "SocialMedia": [
+            "https://www.instagram.com/surya.roshni/",
+            "https://www.youtube.com/channel/UCZBgFZ4heKjIc-oinaY1gSw",
+            "https://www.facebook.com/suryalighting",
+            "https://twitter.com/surya_roshni",
+            "https://www.linkedin.com/company/surya-roshni"
+        ],
+        "Numbers": [
+            "911147108000",
+            "18001025657",
+            "9643300819"
+        ]
+    },
+    {
+        "Target": "http://www.swayamindia.com",
+        "E-Mails": [
+            "bloggerambica@gmail.com",
+            "info@parentinghome.com",
+            "shivanigowda@gmail.com",
+            "CARE@SWAYAMINDIA.COM",
+            "care@swayamindia.com"
+        ],
+        "SocialMedia": [
+            "https://www.facebook.com/SwayamBedsheets/",
+            "https://twitter.com/swayam_india/",
+            "https://www.youtube.com/channel/UCVJ1l2eMqzVuBBZ2fsmEGNg",
+            "https://in.pinterest.com/swayamindia/",
+            "https://www.instagram.com/swayamindia/",
+            "https://www.linkedin.com/company/swayamindia/"
+        ],
+        "Numbers": [
+            "919999902222",
+            "01244370068",
+            "9999902222",
+            "14240122003"
+        ]
+    },
+    {
+        "Target": "http://www.syska.co.in",
+        "E-Mails": [
+            "support@syska.co.in ",
+            "media@syska.co.in"
+        ],
+        "SocialMedia": [
+            "https://instagram.com/syska.world",
+            "https://linkedin.com/company/syskaworld/",
+            "https://youtube.com/channel/UCkZXh-_kU_2FU2r8RzhWZRg/featured",
+            "https://twitter.com/SyskaWorld",
+            "https://facebook.com/SyskaWorld"
+        ],
+        "Numbers": [
+            "18001028787"
+        ]
+    },
+    {
+        "Target": "http://www.toto.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://urbanladder.com",
+        "E-Mails": [
+            "hello@urbanladder.com"
+        ],
+        "SocialMedia": [
+            "https://www.linkedin.com/company/2482371/life/?src=g_footer",
+            "https://facebook.com/urbanladder",
+            "https://twitter.com/UrbanLadder",
+            "https://www.pinterest.com/urbanladder/",
+            "https://youtube.com/user/urbanladder",
+            "https://instagram.com/urbanladder/",
+            "https://in.linkedin.com/company/urban-ladder"
+        ],
+        "Numbers": [
+            "918069807777"
+        ]
+    },
+    {
+        "Target": "http://www.vivotek.com",
+        "E-Mails": [],
+        "SocialMedia": [],
+        "Numbers": []
+    },
+    {
+        "Target": "http://www.wiprolighting.com",
+        "E-Mails": [
+            "helpdesk.lighting@wipro.com"
+        ],
+        "SocialMedia": [
+            "https://www.youtube.com/embed/ujtr_mdi-Kk",
+            "https://www.facebook.com/wiprolighting/",
+            "https://twitter.com/lighting_wipro",
+            "https://www.instagram.com/wipro_lighting/",
+            "https://www.linkedin.com/company/wipro-lighting",
+            "https://www.youtube.com/channel/UC8mzigUwUUbV_JQp8XxV_vg/featured"
+        ],
+        "Numbers": [
+            "18004251969",
+            "50006032018"
+        ]
+    },
+    {
+        "Target": "http://www.woodenstreet.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.instagram.com/woodenstreet",
+            "https://www.facebook.com/Woodenstreet",
+            "https://in.pinterest.com/woodenstreet/",
+            "https://www.youtube.com/c/woodenstreetofficial"
+        ],
+        "Numbers": [
+            "919314444747",
+            "31132112332",
+            "246845681012",
+            "21745429499",
+            "629992948989",
+            "475992528349",
+            "519994549989",
+            "1301993619989",
+            "439193248989"
+        ]
+    },
+    {
+        "Target": "http://www.zicom.com",
+        "E-Mails": [],
+        "SocialMedia": [
+            "https://www.facebook.com/ZicomAIOT",
+            "https://www.instagram.com/zicom_aiot/",
+            "https://in.linkedin.com/company/zicom-aiot",
+            "https://www.youtube.com/channel/UCV8NFSzwaPdanteJnQPvIkw",
+            "https://twitter.com/ZicomAIOT"
+        ],
+        "Numbers": []
     }
 ]
